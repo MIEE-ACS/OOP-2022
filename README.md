@@ -62,7 +62,9 @@
 Преподаватель: Бобков Владислав Дмитриевич
 * email: kens6991@gmail.com
 * telegram: https://t.me/kisaichik
+
 Ассистент: Теслов Сергей
 * email: teslov90@mail.ru 
 * ассистент telegram: https://t.me/Medoed_Medvedka 
+
 Благодарность за проделанную работу над курсом можно выразить Макаренко Дмитрию Владимировичу: https://t.me/d_makarenko 
