@@ -60,7 +60,7 @@
 Контакты
 --------
 
-*email: teslov90@mail.ru
-*преподаватель telegram: https://t.me/kisaichik 
-*ассистент telegram: https://t.me/Medoed_Medvedka
-*благодарности на проделанную работы над курсом можно передавать https://t.me/d_makarenko
+*email: teslov90@mail.ru 
+*преподаватель telegram: https://t.me/kisaichik  
+*ассистент telegram: https://t.me/Medoed_Medvedka 
+*благодарности на проделанную работы над курсом можно передавать https://t.me/d_makarenko 
