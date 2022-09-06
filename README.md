@@ -63,7 +63,7 @@
 * email: kens6991@gmail.com
 * telegram: https://t.me/kisaichik
 
-Ассистент: Теслов Сергей
+Ассистент: Теслов Сергей Игоревич
 * email: teslov90@mail.ru 
 * ассистент telegram: https://t.me/Medoed_Medvedka 
 
