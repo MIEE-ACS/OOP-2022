@@ -59,6 +59,12 @@
 
 Контакты
 --------
+Преподаватель: Бобков Владислав Дмитриевич
+* email: kens6991@gmail.com
+* telegram: https://t.me/kisaichik
 
-* email: dmtr.makarenko@gmail.com
-* telegram: https://t.me/d_makarenko
+Ассистент: Теслов Сергей Игоревич
+* email: teslov90@mail.ru 
+* ассистент telegram: https://t.me/Medoed_Medvedka 
+
+Благодарность за проделанную работу над курсом можно выразить Макаренко Дмитрию Владимировичу: https://t.me/d_makarenko 
