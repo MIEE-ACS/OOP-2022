@@ -37,6 +37,8 @@
 * Ссылка на домашнее задание №1: https://classroom.github.com/a/Ehq306o- (Срок сдачи: 20.09.2022 12:00)
 * Ссылка на домашнее задание №2: https://classroom.github.com/a/-c-4_Idq (Срок сдачи: 27.09.2022 12:00)
 * Ссылка на домашнее задание №3: https://classroom.github.com/a/lYkUaOsc (Срок сдачи: 15.10.2022 10:00)
+* Ссылка на домашнее задание №4: https://classroom.github.com/a/cdqmsdoN (Срок сдачи: 29.10.2022 10:00)
+* Ссылка на домашнее задание №5: https://classroom.github.com/a/PEle4vZR (Срок сдачи: 12.11.2022 10:00)
 
 **УТС-22:**
 
@@ -44,6 +46,8 @@
 * Ссылка на домашнее задание №1: https://classroom.github.com/a/fBp38npa (Срок сдачи: 20.09.2022 12:00)
 * Ссылка на домашнее задание №2: https://classroom.github.com/a/q2yG0UIZ (Срок сдачи: 27.09.2022 12:00)
 * Ссылка на домашнее задание №3: https://classroom.github.com/a/mHMc_mJw (Срок сдачи: 15.10.2022 10:00)
+* Ссылка на домашнее задание №4: https://classroom.github.com/a/oyCXSzbs (Срок сдачи: 29.10.2022 10:00)
+* Ссылка на домашнее задание №5: https://classroom.github.com/a/N20cgddO (Срок сдачи: 12.11.2022 10:00)
 
 4 лабораторных работы
 -------------------
